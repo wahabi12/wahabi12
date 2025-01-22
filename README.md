@@ -98,7 +98,7 @@
 
 <!--icons and links-->
 <p align="center">
-  <a href="https://www.linkedin.com/in/moctar-yonli-b4955a203/" target="_blank">
+  <a href="https://www.linkedin.com/in/latifatou-busari-b4955a203/" target="_blank">
     <img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" />
   </a>
   <a href="https://twitter.com/moctar_yonli" target="_blank">
