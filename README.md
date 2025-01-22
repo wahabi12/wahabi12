@@ -35,7 +35,7 @@
 
 -💬 Feel free to reach out to me for discussions about Vue.js, JavaScript, or front-end development in general.
 
--📫 You can contact me via email at busarilat4.@gmail.com for any inquiries or collaboration opportunities.
+-📫 You can contact me via email at busarilat4@gmail.com for any inquiries or collaboration opportunities.
 
 <!--Intro end-->
 
