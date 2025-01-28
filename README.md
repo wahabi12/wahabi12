@@ -9,11 +9,11 @@
 </div>
 
 
-<!--- snake -->
+<!--- snake 
 <div align="center">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
-</div>
+</div>-->
 
 
 <!--h2 without bottom border-->
@@ -116,39 +116,3 @@
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-
-<h1>Some of my Projects! <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> 🎨 </h1>
-<Br>
-  
-<!-- Ajoutez une div pour créer une grille à deux colonnes -->
-<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px;">
-
-  <!-- Première paire de cartes -->
-  <a href="https://github.com/wahabi12/airbnb-clone">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=wahabi12&repo=airbnb-clone" alt="ReadMe Card">
-  </a>
-
-  <a href="https://github.com/wahabi12/time-tracking">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=wahabi12&repo=time-tracking" alt="ReadMe Card">
-  </a>
-
-  <!-- Deuxième paire de cartes -->
-  <a href="https://github.com/wahabi12/shoping_cart">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=wahabi12&repo=shoping_cart" alt="ReadMe Card">
-  </a>
-
-  <a href="https://github.com/wahabi12/Carbon_Emission">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=wahabi12&repo=Carbon_Emission" alt="ReadMe Card">
-  </a>
-
-  <!-- Troisième paire de cartes -->
-  <a href="https://github.com/wahabi12/Wikipedia-search">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=wahabi12&repo=Wikipedia-search" alt="ReadMe Card">
-  </a>
-
-  <a href="https://github.com/wahabi12/todo-app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=wahabi12&repo=todo-app" alt="ReadMe Card">
-  </a>
-
-</div>
